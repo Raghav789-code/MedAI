@@ -1,0 +1,7 @@
+{
+  "name": "Verdant Health AI Assistant",
+  "description": "An AI-powered chatbot that acts as a doctor's assistant, gathering patient information like symptoms, medical history, and lab reports before a consultation to generate a detailed summary for the physician.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
